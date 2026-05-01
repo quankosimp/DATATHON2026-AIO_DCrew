@@ -21,7 +21,7 @@ Dự báo **doanh thu** (`Revenue`) và **giá vốn hàng bán** (`COGS`) theo 
 
 | Metric | Giá trị |
 |---|---|
-| MSE (public LB) | 683,504.68 |
+| MAE (public LB) | 683,504.68 |
 | Dự báo Revenue (mean) | ~4,038,171 |
 | Dự báo COGS (mean) | ~3,707,846 |
 
